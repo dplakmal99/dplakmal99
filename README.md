@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently following on Student at SLIATE Advanced Technologies Institute (Higher National Diploma in Information Technology) - Galle
 <!--
 **dplakmal99/dplakmal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
